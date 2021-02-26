@@ -30,3 +30,6 @@ There are many software features, a.k.a. software properties, we can use for def
 
 ## References
 
+Santos,  G.  E.  and  Figueiredo,  E.  (2020).   Failure  ofone, fall of many:  An exploratory study of softwarefeatures for defect prediction.  In20th IEEE Interna-tional Working Conference on Source Code Analysisand Manipulation, SCAM 2020, Adelaide, Australia, September 28 - October 2, 2020, pages 98–109.
+
+Santos, G. E., Figueiredo, E., Veloso, A., Viggiato, M., and Ziviani, N. (2020). Understanding machine learning software defect predictions. Automated Software Engineering. 27(3):369–392.
