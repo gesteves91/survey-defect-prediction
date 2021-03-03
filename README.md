@@ -28,6 +28,12 @@ There are many software features, a.k.a. software properties, we can use for def
 
 * Documentation and comments: Represents the density of comments and documentation per line of code. The documentation counts for *docstrings* and software documentation in *markdown* format. This feature is problematic when there is a lack of proper documentation or code comments. As an example, the image below shows a software repository in GitHub with little to no documentation. ![DOC](https://raw.githubusercontent.com/gesteves91/survey-defect-prediction/main/img/DOC.png)     
 
+## People Involved
+
+* Geanderson Santos ([mailto](mailto:geanderson@dcc.ufmg.br))
+* Igor Muzetti ([mailto](igormuzetti@ufop.edu.br)) 
+* Eduardo Figueiredo ([mailto]())
+
 ## References
 
 Santos,  G.  E.  and  Figueiredo,  E.  (2020).   Failure  ofone, fall of many:  An exploratory study of softwarefeatures for defect prediction.  In20th IEEE Interna-tional Working Conference on Source Code Analysisand Manipulation, SCAM 2020, Adelaide, Australia, September 28 - October 2, 2020, pages 98–109.
